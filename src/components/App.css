@@ -1,0 +1,22 @@
+body {
+  background-color: #081e2c;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+h1 {
+  color: white;
+  font-size: 50px;
+}
+img {
+  width: 47vh;
+}
+
+button {
+  margin-top: 50px;
+  font-size: 4vh;
+  border-radius: 2%;
+}
