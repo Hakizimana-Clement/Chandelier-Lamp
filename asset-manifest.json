@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Chandelier-Lamp/static/css/main.cde20a16.css",
+    "main.js": "/Chandelier-Lamp/static/js/main.c9aa2474.js",
+    "static/media/bubble-on.png": "/Chandelier-Lamp/static/media/bubble-on.39d249401051dd0a05df.png",
+    "static/media/bubble-off.png": "/Chandelier-Lamp/static/media/bubble-off.1e8c733411c692c4878e.png",
+    "index.html": "/Chandelier-Lamp/index.html",
+    "main.cde20a16.css.map": "/Chandelier-Lamp/static/css/main.cde20a16.css.map",
+    "main.c9aa2474.js.map": "/Chandelier-Lamp/static/js/main.c9aa2474.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cde20a16.css",
+    "static/js/main.c9aa2474.js"
+  ]
+}
